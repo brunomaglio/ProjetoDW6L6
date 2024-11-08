@@ -44,10 +44,6 @@ Aqui, você poderá:
      
 Ao concluir as edições, clique em Salvar para atualizar as informações no sistema.
 
-### Funcionários Cadastrados:
-Esta opção permite visualizar uma lista completa dos funcionários cadastrados.
-Os dados exibidos incluem nome, CPF, cargo, e salário, além de outros detalhes relevantes.
-
 ### Sair:
 Para sair da conta de administrador, clique na opção "Sair".
 Após clicar, você será deslogado e redirecionado para a tela de login.
